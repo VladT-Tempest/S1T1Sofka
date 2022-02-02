@@ -13,3 +13,7 @@ Realizar las clases de los siguientes diagramas, no olvide completar los diagram
 5. El taller debe ser puesto en un repositorio en GitHub de su propiedad. No olvide crear el archivo README.md explicando qué está entregando.
 6. El resultado de su taller debe ser entregado en el siguiente enlace: https://forms.gle/y6c3GjfHyGKNsDDd8
 
+## Clases adicionales:
+
+![](https://lucid.app/publicSegments/view/2bd87f05-248a-49d8-aa47-cdbdda9e664d/image.png)
+
